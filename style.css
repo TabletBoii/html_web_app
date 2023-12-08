@@ -32,9 +32,12 @@ body {
 	height: 100%;
 	padding: 15px;
 	/* UI Properties */
-
 	border-radius: 50px;
 	opacity: 1;
+}
+
+.item * {
+	cursor: pointer;
 }
 
 
